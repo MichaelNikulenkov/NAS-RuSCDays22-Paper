@@ -10,4 +10,4 @@ We developed and implemented a new type of optimization for Neuroevolution techn
 - Such an approach was analyzed via parallel experiments on Polus clusters and in image classification problems we obtained not only negligible results in the terms of accuracy degradation, but also significant in the terms of FLOPS/iteration. 
 - At some points like in Tiny ImageNet and CIFAR-100, the overall accuracy degradation is negative it means the resulting networks is better after augmentation than original one.
 
-Paper: 
+Paper: https://github.com/MichaelNikulenkov/NAS-RuSCDays22-Paper/blob/main/paper.pdf
